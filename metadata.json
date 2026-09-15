@@ -1,0 +1,6 @@
+{
+  "name": "SEA Exam Practice Portal",
+  "description": "Standalone certification mock testing application for Sustainability Excellence Associate (SEA) exam preparation across Modules 1 to 6 with timed assessments, randomized question pools, detailed performance metrics, and authenticated verification score certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
